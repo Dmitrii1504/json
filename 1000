@@ -854,3 +854,288 @@
         }
       ]
     },
+    {
+      "english": "up",
+      "transcription": "ʌp",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "adverb",
+              "translate": "вверх",
+              "exampleSentence": {
+                "english": "Please look up.",
+                "russian": "Пожалуйста, посмотрите вверх."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "one",
+      "transcription": "wʌn",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "number",
+              "translate": "один",
+              "exampleSentence": {
+                "english": "Give me one cookie.",
+                "russian": "Дайте мне одну печеньку."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "time",
+      "transcription": "taɪm",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "noun",
+              "translate": "время",
+              "exampleSentence": {
+                "english": "What time is it?",
+                "russian": "Сколько времени?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "there",
+      "transcription": "ðer",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "adverb",
+              "translate": "там",
+              "exampleSentence": {
+                "english": "I see my friend there.",
+                "russian": "Я вижу своего друга там."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "year",
+      "transcription": "jɪr",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "noun",
+              "translate": "год",
+              "exampleSentence": {
+                "english": "Happy New Year!",
+                "russian": "С Новым годом!"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "so",
+      "transcription": "soʊ",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "adverb",
+              "translate": "так",
+              "exampleSentence": {
+                "english": "I am so tired.",
+                "russian": "Я так устал."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "think",
+      "transcription": "θɪŋk",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "думать",
+              "exampleSentence": {
+                "english": "I think it's a good idea.",
+                "russian": "Я думаю, это хорошая идея."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "when",
+      "transcription": "wɛn",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "adverb",
+              "translate": "когда",
+              "exampleSentence": {
+                "english": "When will you arrive?",
+                "russian": "Когда вы приедете?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "which",
+      "transcription": "wɪtʃ",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "pronoun",
+              "translate": "который",
+              "exampleSentence": {
+                "english": "Which car do you prefer?",
+                "russian": "Какую машину вы предпочитаете?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "them",
+      "transcription": "ðɛm",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "pronoun",
+              "translate": "их",
+              "exampleSentence": {
+                "english": "I gave them a gift.",
+                "russian": "Я подарил им подарок."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "some",
+      "transcription": "sʌm",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "determiner",
+              "translate": "некоторые",
+              "exampleSentence": {
+                "english": "I need some water.",
+                "russian": "Мне нужна немного воды."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "me",
+      "transcription": "miː",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "pronoun",
+              "translate": "мне",
+              "exampleSentence": {
+                "english": "He gave me a book.",
+                "russian": "Он дал мне книгу."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "people",
+      "transcription": "ˈpipəl",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "noun",
+              "translate": "люди",
+              "exampleSentence": {
+                "english": "There are many people here.",
+                "russian": "Здесь много людей."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "take",
+      "transcription": "teɪk",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "брать",
+              "exampleSentence": {
+                "english": "Can you take a photo?",
+                "russian": "Вы можете сделать фотографию?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "out",
+      "transcription": "aʊt",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "adverb",
+              "translate": "вне",
+              "exampleSentence": {
+                "english": "Go out and enjoy the sun.",
+                "russian": "Выходите и наслаждайтесь солнцем."
+              }
+            }
+          ]
+        }
+      ]
+    },
