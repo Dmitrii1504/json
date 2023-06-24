@@ -1,0 +1,856 @@
+{
+  "words": [
+    {
+      "english": "the",
+      "transcription": "ðə",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "article",
+              "translate": "определенный артикль",
+              "exampleSentence": {
+                "english": "The car is red.",
+                "russian": "Машина красная."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "be",
+      "transcription": "bi",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "быть",
+              "exampleSentence": {
+                "english": "I am happy.",
+                "russian": "Я счастлив."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "and",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "conjunction",
+              "translate": "и",
+              "exampleSentence": {
+                "english": "I like tea and coffee.",
+                "russian": "Мне нравится чай и кофе."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "of",
+      "transcription": "ʌv",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "preposition",
+              "translate": "из",
+              "exampleSentence": {
+                "english": "The book is made of paper.",
+                "russian": "Книга сделана из бумаги."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "a",
+      "transcription": "ə",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "article",
+              "translate": "неопределенный артикль",
+              "exampleSentence": {
+                "english": "I have a cat.",
+                "russian": "У меня есть кошка."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "in",
+      "transcription": "ɪn",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "preposition",
+              "translate": "в",
+              "exampleSentence": {
+                "english": "She lives in New York.",
+                "russian": "Она живет в Нью-Йорке."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "to",
+      "transcription": "tu",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "preposition",
+              "translate": "к",
+              "exampleSentence": {
+                "english": "I go to school.",
+                "russian": "Я иду в школу."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "have",
+      "transcription": "hæv",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "иметь",
+              "exampleSentence": {
+                "english": "I have a dog.",
+                "russian": "У меня есть собака."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "it",
+      "transcription": "ɪt",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "pronoun",
+              "translate": "это",
+              "exampleSentence": {
+                "english": "It is a beautiful day.",
+                "russian": "Это прекрасный день."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "I",
+      "transcription": "aɪ",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "pronoun",
+              "translate": "я",
+              "exampleSentence": {
+                "english": "I love ice cream.",
+                "russian": "Я люблю мороженое."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "that",
+      "transcription": "ðæt",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "pronoun",
+              "translate": "этот",
+              "exampleSentence": {
+                "english": "That is my book.",
+                "russian": "Это моя книга."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "for",
+      "transcription": "fɔːr",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "preposition",
+              "translate": "для",
+              "exampleSentence": {
+                "english": "This gift is for you.",
+                "russian": "Этот подарок для тебя."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "you",
+      "transcription": "juː",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "pronoun",
+              "translate": "ты",
+              "exampleSentence": {
+                "english": "You are my friend.",
+                "russian": "Ты мой друг."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "he",
+      "transcription": "hiː",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "pronoun",
+              "translate": "он",
+              "exampleSentence": {
+                "english": "He is a doctor.",
+                "russian": "Он врач."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "with",
+      "transcription": "wɪð",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "preposition",
+              "translate": "с",
+              "exampleSentence": {
+                "english": "I have a meeting with him.",
+                "russian": "У меня встреча с ним."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "on",
+      "transcription": "ɒn",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "preposition",
+              "translate": "на",
+              "exampleSentence": {
+                "english": "The book is on the table.",
+                "russian": "Книга на столе."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "do",
+      "transcription": "duː",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "делать",
+              "exampleSentence": {
+                "english": "I do my homework.",
+                "russian": "Я делаю свою домашнюю работу."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "say",
+      "transcription": "seɪ",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "говорить",
+              "exampleSentence": {
+                "english": "She said hello.",
+                "russian": "Она сказала привет."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "this",
+      "transcription": "ðɪs",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "pronoun",
+              "translate": "это",
+              "exampleSentence": {
+                "english": "This is my car.",
+                "russian": "Это моя машина."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "they",
+      "transcription": "ðeɪ",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "pronoun",
+              "translate": "они",
+              "exampleSentence": {
+                "english": "They are my friends.",
+                "russian": "Они мои друзья."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "at",
+      "transcription": "æt",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "preposition",
+              "translate": "в",
+              "exampleSentence": {
+                "english": "She arrived at the airport.",
+                "russian": "Она прибыла в аэропорт."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "but",
+      "transcription": "bʌt",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "conjunction",
+              "translate": "но",
+              "exampleSentence": {
+                "english": "I am tired, but I can still work.",
+                "russian": "Я устал, но все еще могу работать."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "we",
+      "transcription": "wiː",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "pronoun",
+              "translate": "мы",
+              "exampleSentence": {
+                "english": "We are going to the park.",
+                "russian": "Мы идем в парк."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "his",
+      "transcription": "hɪz",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "pronoun",
+              "translate": "его",
+              "exampleSentence": {
+                "english": "This is his book.",
+                "russian": "Это его книга."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "from",
+      "transcription": "frʌm",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "preposition",
+              "translate": "из",
+              "exampleSentence": {
+                "english": "I am from Russia.",
+                "russian": "Я из России."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "not",
+      "transcription": "nɒt",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "adverb",
+              "translate": "не",
+              "exampleSentence": {
+                "english": "I am not hungry.",
+                "russian": "Я не голоден."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "by",
+      "transcription": "baɪ",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "preposition",
+              "translate": "от",
+              "exampleSentence": {
+                "english": "The letter was written by him.",
+                "russian": "Письмо было написано им."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "she",
+      "transcription": "ʃiː",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "pronoun",
+              "translate": "она",
+              "exampleSentence": {
+                "english": "She is a teacher.",
+                "russian": "Она учительница."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "or",
+      "transcription": "ɔːr",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "conjunction",
+              "translate": "или",
+              "exampleSentence": {
+                "english": "Do you want coffee or tea?",
+                "russian": "Вы хотите кофе или чай?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "as",
+      "transcription": "æz",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "conjunction",
+              "translate": "как",
+              "exampleSentence": {
+                "english": "He works as a teacher.",
+                "russian": "Он работает как учитель."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "what",
+      "transcription": "wɒt",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "pronoun",
+              "translate": "что",
+              "exampleSentence": {
+                "english": "What is your name?",
+                "russian": "Как вас зовут?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "go",
+      "transcription": "ɡəʊ",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "идти",
+              "exampleSentence": {
+                "english": "Let's go for a walk.",
+                "russian": "Пойдем на прогулку."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "their",
+      "transcription": "ðeər",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "pronoun",
+              "translate": "их",
+              "exampleSentence": {
+                "english": "Their house is big.",
+                "russian": "Их дом большой."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "can",
+      "transcription": "kæn",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "modal verb",
+              "translate": "мочь",
+              "exampleSentence": {
+                "english": "I can swim.",
+                "russian": "Я умею плавать."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "who",
+      "transcription": "huː",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "pronoun",
+              "translate": "кто",
+              "exampleSentence": {
+                "english": "Who is that girl?",
+                "russian": "Кто эта девушка?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "get",
+      "transcription": "ɡet",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "получать",
+              "exampleSentence": {
+                "english": "I get a present.",
+                "russian": "Я получаю подарок."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "if",
+      "transcription": "ɪf",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "conjunction",
+              "translate": "если",
+              "exampleSentence": {
+                "english": "If it rains, take an umbrella.",
+                "russian": "Если пойдет дождь, возьми зонтик."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "would",
+      "transcription": "wʊd",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "modal verb",
+              "translate": "бы",
+              "exampleSentence": {
+                "english": "I would like a cup of tea.",
+                "russian": "Я бы хотел чашку чая."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "her",
+      "transcription": "hər",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "pronoun",
+              "translate": "ее",
+              "exampleSentence": {
+                "english": "I love her.",
+                "russian": "Я люблю ее."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "all",
+      "transcription": "ɔːl",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "pronoun",
+              "translate": "все",
+              "exampleSentence": {
+                "english": "All students are here.",
+                "russian": "Все студенты здесь."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "my",
+      "transcription": "maɪ",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "pronoun",
+              "translate": "мой",
+              "exampleSentence": {
+                "english": "This is my book.",
+                "russian": "Это моя книга."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "make",
+      "transcription": "meɪk",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "делать",
+              "exampleSentence": {
+                "english": "She makes a cake.",
+                "russian": "Она делает торт."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "about",
+      "transcription": "əˈbaʊt",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "preposition",
+              "translate": "о",
+              "exampleSentence": {
+                "english": "I heard about it.",
+                "russian": "Я слышал об этом."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "know",
+      "transcription": "noʊ",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "знать",
+              "exampleSentence": {
+                "english": "I know the answer.",
+                "russian": "Я знаю ответ."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "will",
+      "transcription": "wɪl",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "modal verb",
+              "translate": "буду",
+              "exampleSentence": {
+                "english": "I will come tomorrow.",
+                "russian": "Я приду завтра."
+              }
+            }
+          ]
+        }
+      ]
+    },
