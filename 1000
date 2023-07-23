@@ -9134,46 +9134,1267 @@
           ]
         }
       ]
+    },
+    {
+      "english": "region",
+      "transcription": "ˈriːdʒən",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "noun",
+              "translate": "регион",
+              "exampleSentence": {
+                "english": "She moved to a different region for work.",
+                "russian": "Она переехала в другой регион из-за работы."
+              }
+            },
+            {
+              "partOfSpeech": "noun",
+              "translate": "область",
+              "exampleSentence": {
+                "english": "Tourism is an important industry in this region.",
+                "russian": "Туризм - важная отрасль в этой области."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "noun",
+              "translate": "регион",
+              "exampleSentence": {
+                "english": "The disease has spread to every region of the country.",
+                "russian": "Болезнь распространилась по всем регионам страны."
+              }
+            },
+            {
+              "partOfSpeech": "noun",
+              "translate": "географический район",
+              "exampleSentence": {
+                "english": "The Amazon rainforest is located in the Amazon region.",
+                "russian": "Амазонский дождевой лес находится в регионе Амазонки."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "relationship",
+      "transcription": "rɪˈleɪʃənʃɪp",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "noun",
+              "translate": "отношения",
+              "exampleSentence": {
+                "english": "What is your relationship to the bride?",
+                "russian": "Какое отношение вы имеете к невесте?"
+              }
+            },
+            {
+              "partOfSpeech": "noun",
+              "translate": "соотношение",
+              "exampleSentence": {
+                "english": "There is a close relationship between education and income.",
+                "russian": "Между образованием и доходом существует тесное соотношение."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "noun",
+              "translate": "отношения",
+              "exampleSentence": {
+                "english": "Their relationship ended after years of arguing.",
+                "russian": "Их отношения завершились после лет ссор."
+              }
+            },
+            {
+              "partOfSpeech": "noun",
+              "translate": "связь",
+              "exampleSentence": {
+                "english": "There is a strong relationship between smoking and cancer.",
+                "russian": "Существует прочная связь между курением и раком."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "religious",
+      "transcription": "rɪˈlɪdʒəs",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "adjective",
+              "translate": "религиозный",
+              "exampleSentence": {
+                "english": "She has strong religious beliefs.",
+                "russian": "У нее сильные религиозные убеждения."
+              }
+            },
+            {
+              "partOfSpeech": "adjective",
+              "translate": "веротерпимый",
+              "exampleSentence": {
+                "english": "We should respect people of different religious backgrounds.",
+                "russian": "Мы должны уважать людей различных религиозных убеждений."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "adjective",
+              "translate": "религиозный",
+              "exampleSentence": {
+                "english": "The country has a strong religious tradition.",
+                "russian": "У этой страны богатая религиозная традиция."
+              }
+            },
+            {
+              "partOfSpeech": "adjective",
+              "translate": "религиозный",
+              "exampleSentence": {
+                "english": "He devoted his life to religious studies.",
+                "russian": "Он посвятил свою жизнь изучению религии."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "remain",
+      "transcription": "rɪˈmeɪn",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "остаться",
+              "exampleSentence": {
+                "english": "I will remain here until you come back.",
+                "russian": "Я останусь здесь, пока ты не вернешься."
+              }
+            },
+            {
+              "partOfSpeech": "verb",
+              "translate": "оставаться",
+              "exampleSentence": {
+                "english": "All the guests have left except for one who remains.",
+                "russian": "Все гости ушли, кроме одного, который остается."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "оставаться",
+              "exampleSentence": {
+                "english": "The memory of her will remain with me forever.",
+                "russian": "Память о ней останется со мной навсегда."
+              }
+            },
+            {
+              "partOfSpeech": "verb",
+              "translate": "оставаться",
+              "exampleSentence": {
+                "english": "The smell of the flowers remains in the room.",
+                "russian": "Запах цветов остается в комнате."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "remember",
+      "transcription": "rɪˈmembər",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "помнить",
+              "exampleSentence": {
+                "english": "I don't remember her name.",
+                "russian": "Я не помню ее имени."
+              }
+            },
+            {
+              "partOfSpeech": "verb",
+              "translate": "вспомнить",
+              "exampleSentence": {
+                "english": "I remember seeing her at the party.",
+                "russian": "Я помню, что видел ее на вечеринке."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "вспомнить",
+              "exampleSentence": {
+                "english": "He remembered the anniversary of their first date.",
+                "russian": "Он вспомнил годовщину их первого свидания."
+              }
+            },
+            {
+              "partOfSpeech": "verb",
+              "translate": "принять во внимание",
+              "exampleSentence": {
+                "english": "You should remember to lock the door when you leave.",
+                "russian": "Вы должны помнить запереть дверь, когда уходите."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "remove",
+      "transcription": "rɪˈmuːv",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "удалить",
+              "exampleSentence": {
+                "english": "Please remove your shoes before entering.",
+                "russian": "Пожалуйста, снимите обувь перед входом."
+              }
+            },
+            {
+              "partOfSpeech": "verb",
+              "translate": "убрать",
+              "exampleSentence": {
+                "english": "She removed her makeup before going to bed.",
+                "russian": "Она сняла макияж перед сном."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "удалить",
+              "exampleSentence": {
+                "english": "The doctor removed the bullet from his leg.",
+                "russian": "Доктор удалил пулю из его ноги."
+              }
+            },
+            {
+              "partOfSpeech": "verb",
+              "translate": "убрать",
+              "exampleSentence": {
+                "english": "They removed all the old furniture from the room.",
+                "russian": "Они убрали все старую мебель из комнаты."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "report",
+      "transcription": "rɪˈpɔrt",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "noun",
+              "translate": "отчет",
+              "exampleSentence": {
+                "english": "He wrote a report on the company's sales.",
+                "russian": "Он написал отчет о продажах компании."
+              }
+            },
+            {
+              "partOfSpeech": "noun",
+              "translate": "доклад",
+              "exampleSentence": {
+                "english": "The government issued a report on climate change.",
+                "russian": "Правительство опубликовало доклад по изменению климата."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "сообщить",
+              "exampleSentence": {
+                "english": "I need to report the theft to the police.",
+                "russian": "Мне нужно сообщить о краже в полицию."
+              }
+            },
+            {
+              "partOfSpeech": "verb",
+              "translate": "докладывать",
+              "exampleSentence": {
+                "english": "She reported that the project was on schedule.",
+                "russian": "Она докладывала, что проект идет по графику."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "represent",
+      "transcription": "ˌreprɪˈzent",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "представлять",
+              "exampleSentence": {
+                "english": "He represents a famous Hollywood actor.",
+                "russian": "Он представляет известного голливудского актера."
+              }
+            },
+            {
+              "partOfSpeech": "verb",
+              "translate": "изображать",
+              "exampleSentence": {
+                "english": "The painting represents a beautiful landscape.",
+                "russian": "Картина изображает красивый пейзаж."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "представлять",
+              "exampleSentence": {
+                "english": "The senator represents the interests of his state.",
+                "russian": "Сенатор представляет интересы своего штата."
+              }
+            },
+            {
+              "partOfSpeech": "verb",
+              "translate": "символизировать",
+              "exampleSentence": {
+                "english": "The dove represents peace.",
+                "russian": "Голубь символизирует мир."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "require",
+      "transcription": "rɪˈkwaɪər",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "требовать",
+              "exampleSentence": {
+                "english": "We require immediate action.",
+                "russian": "Мы требуем немедленных действий."
+              }
+            },
+            {
+              "partOfSpeech": "verb",
+              "translate": "нуждаться",
+              "exampleSentence": {
+                "english": "The house requires renovating.",
+                "russian": "Дом требует ремонта."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "потребоваться",
+              "exampleSentence": {
+                "english": "This project will require a lot of time and effort.",
+                "russian": "На этот проект потребуется много времени и усилий."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "research",
+      "transcription": "ˈrisɜːtʃ",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "исследовать",
+              "exampleSentence": {
+                "english": "She is researching the effects of climate change.",
+                "russian": "Она исследует последствия изменения климата."
+              }
+            },
+            {
+              "partOfSpeech": "noun",
+              "translate": "исследование",
+              "exampleSentence": {
+                "english": "The research showed positive results.",
+                "russian": "Исследование показало положительные результаты."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "изучать",
+              "exampleSentence": {
+                "english": "She is researching different cultures.",
+                "russian": "Она изучает разные культуры."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "recognize",
+      "transcription": "ˈrekəɡnaɪz",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "узнавать",
+              "exampleSentence": {
+                "english": "I can't recognize him without his glasses.",
+                "russian": "Я не могу узнать его без очков."
+              }
+            },
+            {
+              "partOfSpeech": "verb",
+              "translate": "признавать",
+              "exampleSentence": {
+                "english": "The government recognized the new country.",
+                "russian": "Правительство признало новую страну."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "осознавать",
+              "exampleSentence": {
+                "english": "She recognized the importance of taking breaks.",
+                "russian": "Она осознала важность перерывов."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "record",
+      "transcription": "ˈrekɔːrd",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "noun",
+              "translate": "запись",
+              "exampleSentence": {
+                "english": "I have a collection of old records.",
+                "russian": "У меня есть коллекция старых пластинок."
+              }
+            },
+            {
+              "partOfSpeech": "verb",
+              "translate": "записывать",
+              "exampleSentence": {
+                "english": "Can you record the meeting for me?",
+                "russian": "Можете записать для меня встречу?"
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "noun",
+              "translate": "рекорд",
+              "exampleSentence": {
+                "english": "He broke the world record for the long jump.",
+                "russian": "Он побил мировой рекорд в прыжке в длину."
+              }
+            },
+            {
+              "partOfSpeech": "verb",
+              "translate": "устанавливать рекорд",
+              "exampleSentence": {
+                "english": "She hopes to record a new album next year.",
+                "russian": "Она надеется записать новый альбом в следующем году."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "red",
+      "transcription": "rɛd",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "adjective",
+              "translate": "красный",
+              "exampleSentence": {
+                "english": "I bought a red dress.",
+                "russian": "Я купила красное платье."
+              }
+            },
+            {
+              "partOfSpeech": "noun",
+              "translate": "красный цвет",
+              "exampleSentence": {
+                "english": "She likes the color red.",
+                "russian": "Ей нравится красный цвет."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "noun",
+              "translate": "красное вино",
+              "exampleSentence": {
+                "english": "I prefer red over white wine.",
+                "russian": "Я предпочитаю красное вино белому."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "reduce",
+      "transcription": "rɪˈdjuːs",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "сокращать",
+              "exampleSentence": {
+                "english": "We need to reduce expenses.",
+                "russian": "Нам нужно сократить расходы."
+              }
+            },
+            {
+              "partOfSpeech": "verb",
+              "translate": "уменьшать",
+              "exampleSentence": {
+                "english": "They reduced the price by 50%.",
+                "russian": "Они уменьшили цену на 50%."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "понижать",
+              "exampleSentence": {
+                "english": "The company plans to reduce the number of employees.",
+                "russian": "Компания планирует понизить число сотрудников."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "refer",
+      "transcription": "rɪˈfɜːr",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "относиться",
+              "exampleSentence": {
+                "english": "This question refers to the previous chapter.",
+                "russian": "Этот вопрос относится к предыдущей главе."
+              }
+            },
+            {
+              "partOfSpeech": "verb",
+              "translate": "ссылаться",
+              "exampleSentence": {
+                "english": "He referred to a study conducted by Harvard University.",
+                "russian": "Он сослался на исследование, проведенное Гарвардским университетом."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "направлять",
+              "exampleSentence": {
+                "english": "I will refer you to our customer service department.",
+                "russian": "Я направлю вас в нашу службу поддержки клиентов."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "real",
+      "transcription": "riːl",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "adjective",
+              "translate": "реальный",
+              "exampleSentence": {
+                "english": "Is this a real diamond?",
+                "russian": "Это настоящий алмаз?"
+              }
+            },
+            {
+              "partOfSpeech": "adjective",
+              "translate": "настоящий",
+              "exampleSentence": {
+                "english": "You're a real friend to me.",
+                "russian": "Ты настоящий друг для меня."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "adverb",
+              "translate": "действительно",
+              "exampleSentence": {
+                "english": "She is really talented.",
+                "russian": "Она действительно талантлива."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "really",
+      "transcription": "ˈriəli",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "adverb",
+              "translate": "действительно",
+              "exampleSentence": {
+                "english": "I'm really tired.",
+                "russian": "Я действительно устал."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "adverb",
+              "translate": "действительно",
+              "exampleSentence": {
+                "english": "Do you really believe in ghosts?",
+                "russian": "Ты действительно веришь в призраков?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "reason",
+      "transcription": "ˈriːzən",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "noun",
+              "translate": "причина",
+              "exampleSentence": {
+                "english": "What is the reason for your absence?",
+                "russian": "Какова причина вашего отсутствия?"
+              }
+            },
+            {
+              "partOfSpeech": "noun",
+              "translate": "резон",
+              "exampleSentence": {
+                "english": "There's no reason to worry.",
+                "russian": "Нет причин для беспокойства."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "обосновывать",
+              "exampleSentence": {
+                "english": "Can you reason why you did that?",
+                "russian": "Можете ли вы обосновать, почему вы это сделали?"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "receive",
+      "transcription": "rɪˈsiːv",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "получать",
+              "exampleSentence": {
+                "english": "Did you receive my message?",
+                "russian": "Вы получили моё сообщение?"
+              }
+            },
+            {
+              "partOfSpeech": "verb",
+              "translate": "получить",
+              "exampleSentence": {
+                "english": "She received a gift from her friend.",
+                "russian": "Она получила подарок от своего друга."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "принимать",
+              "exampleSentence": {
+                "english": "He received the award for his contributions to science.",
+                "russian": "Он получил награду за свои вклады в науку."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "recent",
+      "transcription": "ˈriːsənt",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "adjective",
+              "translate": "недавний",
+              "exampleSentence": {
+                "english": "Have you read any good books recently?",
+                "russian": "Вы недавно читали какие-нибудь хорошие книги?"
+              }
+            },
+            {
+              "partOfSpeech": "adjective",
+              "translate": "новый",
+              "exampleSentence": {
+                "english": "This is a recent photo of us.",
+                "russian": "Это недавнее фото нас."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "adjective",
+              "translate": "последний",
+              "exampleSentence": {
+                "english": "In recent years, technology has advanced rapidly.",
+                "russian": "В последние годы технологии развивались стремительно."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "quickly",
+      "transcription": "ˈkwɪkli",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "adverb",
+              "translate": "быстро",
+              "exampleSentence": {
+                "english": "He ran quickly to catch the bus.",
+                "russian": "Он быстро побежал, чтобы успеть на автобус."
+              }
+            },
+            {
+              "partOfSpeech": "adjective",
+              "translate": "быстрый",
+              "exampleSentence": {
+                "english": "He is a quick learner.",
+                "russian": "Он быстро обучается."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B1",
+          "translations": [
+            {
+              "partOfSpeech": "adverb",
+              "translate": "скоро",
+              "exampleSentence": {
+                "english": "I will see you again quickly.",
+                "russian": "Я увижу тебя опять скоро."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "quite",
+      "transcription": "kwaɪt",
+      "difficulties": [
+        {
+          "difficulty": "A2",
+          "translations": [
+            {
+              "partOfSpeech": "adverb",
+              "translate": "довольно",
+              "exampleSentence": {
+                "english": "The movie was quite good.",
+                "russian": "Фильм был довольно хорош."
+              }
+            },
+            {
+              "partOfSpeech": "adverb",
+              "translate": "абсолютно",
+              "exampleSentence": {
+                "english": "He was quite sure of his decision.",
+                "russian": "Он был абсолютно уверен в своем решении."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B1",
+          "translations": [
+            {
+              "partOfSpeech": "adjective",
+              "translate": "совершенно",
+              "exampleSentence": {
+                "english": "The results were quite surprising.",
+                "russian": "Результаты были совершенно удивительными."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "racing",
+      "transcription": "ˈreɪsɪŋ",
+      "difficulties": [
+        {
+          "difficulty": "A2",
+          "translations": [
+            {
+              "partOfSpeech": "noun",
+              "translate": "гонка",
+              "exampleSentence": {
+                "english": "He was watching a horse racing.",
+                "russian": "Он смотрел гонку лошадей."
+              }
+            },
+            {
+              "partOfSpeech": "adjective",
+              "translate": "гонящий",
+              "exampleSentence": {
+                "english": "The racing car was very fast.",
+                "russian": "Гоночная машина была очень быстрой."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B1",
+          "translations": [
+            {
+              "partOfSpeech": "noun",
+              "translate": "гоночный",
+              "exampleSentence": {
+                "english": "The racing team won the championship.",
+                "russian": "Гоночная команда выиграла чемпионат."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "radio",
+      "transcription": "ˈreɪdioʊ",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "noun",
+              "translate": "радио",
+              "exampleSentence": {
+                "english": "I listen to the radio every day.",
+                "russian": "Я слушаю радио каждый день."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B1",
+          "translations": [
+            {
+              "partOfSpeech": "noun",
+              "translate": "радиостанция",
+              "exampleSentence": {
+                "english": "He works for a local radio.",
+                "russian": "Он работает на местной радиостанции."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "raise",
+      "transcription": "reɪz",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "поднимать",
+              "exampleSentence": {
+                "english": "He raised his hand to ask a question.",
+                "russian": "Он поднял руку, чтобы задать вопрос."
+              }
+            },
+            {
+              "partOfSpeech": "noun",
+              "translate": "повышение",
+              "exampleSentence": {
+                "english": "She got a raise at work.",
+                "russian": "Она получила повышение на работе."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "noun",
+              "translate": "увеличение",
+              "exampleSentence": {
+                "english": "The raise in prices affected everyone.",
+                "russian": "Увеличение цен затронуло всех."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "rate",
+      "transcription": "reɪt",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "noun",
+              "translate": "ставка",
+              "exampleSentence": {
+                "english": "The interest rate on my loan is low.",
+                "russian": "Ставка по моему кредиту низкая."
+              }
+            },
+            {
+              "partOfSpeech": "noun",
+              "translate": "частота",
+              "exampleSentence": {
+                "english": "The heart rate increased during exercise.",
+                "russian": "Частота сердечных сокращений увеличилась во время упражнения."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "оценивать",
+              "exampleSentence": {
+                "english": "I would rate this movie as excellent.",
+                "russian": "Я оценил бы этот фильм как отличный."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "rather",
+      "transcription": "ˈræðər",
+      "difficulties": [
+        {
+          "difficulty": "A2",
+          "translations": [
+            {
+              "partOfSpeech": "adverb",
+              "translate": "скорее",
+              "exampleSentence": {
+                "english": "I would rather stay at home tonight.",
+                "russian": "Я скорее останусь дома сегодня вечером."
+              }
+            },
+            {
+              "partOfSpeech": "adverb",
+              "translate": "довольно",
+              "exampleSentence": {
+                "english": "He is rather tall for his age.",
+                "russian": "Он довольно высокий для своего возраста."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "adjective",
+              "translate": "скорее",
+              "exampleSentence": {
+                "english": "I would consider it a rather difficult task.",
+                "russian": "Я считал бы это скорее сложной задачей."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "reach",
+      "transcription": "riːtʃ",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "достигать",
+              "exampleSentence": {
+                "english": "He managed to reach the top of the mountain.",
+                "russian": "Он сумел достичь вершины горы."
+              }
+            },
+            {
+              "partOfSpeech": "noun",
+              "translate": "расстояние",
+              "exampleSentence": {
+                "english": "The store is within easy reach.",
+                "russian": "Магазин находится в пределах легкой досягаемости."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "связываться",
+              "exampleSentence": {
+                "english": "I will reach out to you later.",
+                "russian": "Я свяжусь с вами позже."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "read",
+      "transcription": "rid",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "verb",
+              "translate": "читать",
+              "exampleSentence": {
+                "english": "She can read books in Spanish.",
+                "russian": "Она может читать книги на испанском."
+              }
+            },
+            {
+              "partOfSpeech": "noun",
+              "translate": "чтение",
+              "exampleSentence": {
+                "english": "She loves reading.",
+                "russian": "Она любит чтение."
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "noun",
+              "translate": "прочитанное",
+              "exampleSentence": {
+                "english": "I've read some interesting things recently.",
+                "russian": "Я прочитал недавно несколько интересных вещей."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "english": "ready",
+      "transcription": "ˈrɛdi",
+      "difficulties": [
+        {
+          "difficulty": "A1",
+          "translations": [
+            {
+              "partOfSpeech": "adjective",
+              "translate": "готовый",
+              "exampleSentence": {
+                "english": "The meal is ready.",
+                "russian": "Еда готова."
+              }
+            },
+            {
+              "partOfSpeech": "adverb",
+              "translate": "готов",
+              "exampleSentence": {
+                "english": "Are you ready to go?",
+                "russian": "Ты готов к выезду?"
+              }
+            }
+          ]
+        },
+        {
+          "difficulty": "B2",
+          "translations": [
+            {
+              "partOfSpeech": "noun",
+              "translate": "готовность",
+              "exampleSentence": {
+                "english": "The soldier was always ready for battle.",
+                "russian": "Солдат всегда был готов к битве."
+              }
+            }
+          ]
+        }
+      ]
     }
   ]
 }
 
 
-  
 
-
-
-
-
-  
-
-  
-
- 
-
-
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-   
-
-    
-  
-  
-  
-   
-  
-  
-  
   
   
